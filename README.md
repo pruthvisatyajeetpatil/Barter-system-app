@@ -1,2 +1,2 @@
-# Barter-system-app
-now people can barter their things easily
+# book-santa-stage-1
+The Book Donation app
